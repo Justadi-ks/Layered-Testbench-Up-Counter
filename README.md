@@ -1,10 +1,10 @@
 # Layered-Testbench-Up-Counter
 SystemVerilog layered testbench for a 4-bit synchronous up counter
 # SystemVerilog Layered Testbench
-#NAME 
-ADITYA KARANAYIL SANOJ
 
-#SRN 
+## NAME
+ADITYA KARANAYIL SANOJ
+## SRN 
 PES2UG24EC007
 
 ## Project Overview
